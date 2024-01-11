@@ -1,0 +1,3 @@
+[submodule "apps/git_utils"]
+	path = apps/git_utils
+	url = git@github.com:Amour-0/git_utils.git
