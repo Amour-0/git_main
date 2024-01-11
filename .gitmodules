@@ -1,0 +1,9 @@
+[submodule "apps/git_utils"]
+	path = apps/git_utils
+	url = git@github.com:Amour-0/git_utils.git
+[submodule "apps/styled-components"]
+	path = apps/styled-components
+	url = git@github.com:Amour-0/styled-components.git
+[submodule "apps/classnames"]
+	path = apps/classnames
+	url = git@github.com:Amour-0/classnames.git
